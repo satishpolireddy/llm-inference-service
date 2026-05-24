@@ -1,0 +1,28 @@
+# Standard prompt set for LLM Inference Service benchmarks
+# Lines starting with # are ignored
+
+Explain the concept of transformer attention mechanisms in simple terms.
+Write a Python function that sorts a list of dictionaries by a given key.
+What are the main differences between TCP and UDP protocols?
+Summarize the key principles of clean code and software craftsmanship.
+Generate a SQL query to find the top 10 customers by total order value.
+Describe the steps involved in a typical CI/CD pipeline for a web application.
+What is gradient descent and how does it work in machine learning?
+Write a bash script that monitors disk usage and sends an alert if it exceeds 80%.
+Explain the CAP theorem and its implications for distributed systems.
+How does HTTPS work? Explain the TLS handshake process step by step.
+What are the SOLID principles of object-oriented design?
+Write a regular expression that validates email addresses.
+Explain the difference between synchronous and asynchronous programming.
+What is Docker and how does it differ from a virtual machine?
+Describe the MapReduce programming model with a concrete example.
+How does Redis handle persistence and what are the trade-offs?
+What is the difference between L1 and L2 regularization in machine learning?
+Explain how garbage collection works in the JVM.
+Write pseudocode for a binary search algorithm.
+What are the main challenges in building a real-time recommendation system?
+Explain the concept of eventual consistency in distributed databases.
+How does Kubernetes handle pod scheduling and resource allocation?
+What is the difference between a process and a thread?
+Describe the architecture of a typical microservices application.
+How does BERT differ from GPT in terms of architecture and use cases?
